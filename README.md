@@ -2,8 +2,6 @@
 
 Microsoft 365 Copilot show-and-tell built around a morning in the life of the Group CTO of Rivanta General Insurance, preparing for the Q2 Board Technology &amp; Risk Committee.
 
-**Live site:** https://steffiyappy.github.io/rivanta-cto-immersion/
-
 The site is password-gated. Access is shared separately with the audience.
 
 ## What's inside
